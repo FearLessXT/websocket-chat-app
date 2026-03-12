@@ -134,7 +134,3 @@ chat/
 
 ## License
 This project is provided as-is without a specific license. Add your preferred license file if needed.
-
-## Screenshot
-
-![Spring WebSocket Chat Demo](</Users/macbookpro/Desktop/Screenshot 2026-03-12 at 1.00.47 in the afternoon.png>)
